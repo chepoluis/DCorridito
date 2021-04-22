@@ -1,0 +1,12 @@
+{
+  "name": "DCorridito",
+  "displayName": "DCorridito",
+  "expo": {
+    "name": "DCorridito",
+    "slug": "DCorridito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
